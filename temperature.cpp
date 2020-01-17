@@ -450,9 +450,4 @@ void Temperature::Increment(int deg, char sc)
 
 		}
 	}
-
-
-
-
-
 }
